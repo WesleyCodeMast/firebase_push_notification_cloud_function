@@ -1,7 +1,7 @@
 # Define start and end dates
 $startDate = Get-Date "2017-01-05"
 $endDate = Get-Date "2025-02-28"
-
+cd ..
 git add .
 
 $env:GIT_COMMITTER_DATE = "2018-06-21 12:00:00"
