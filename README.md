@@ -1,1 +1,1 @@
-# [https://github.com/WesleyCodeMast/firebase_push_notification_cloud_function/blob/main/WesleyLeck.pdf](https://github.com/WesleyCodeMast/firebase_push_notification_cloud_function/blob/main/Wesley%20Resume.pdf)
+# This is the firebase push notification cloud function.
